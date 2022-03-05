@@ -4,6 +4,17 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-01-Servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-02-HelloMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-03-HelloMVC2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-04-Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-05-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-06-JSON/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-07-SSMbuild/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-08-AJAX/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-09-Intercepter/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-10-File/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,25 +7,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringMVC-04-Annotation" />
+        <module name="SpringMVC-09-Intercepter" />
         <module name="SpringMVC-07-SSMbuild" />
+        <module name="SpringMVC-04-Annotation" />
         <module name="SpringMVC-03-HelloMVC2" />
         <module name="SpringMVC-06-JSON" />
+        <module name="SpringMVC-10-File" />
         <module name="SpringMVC-02-HelloMVC" />
+        <module name="SpringMVC-08-AJAX" />
         <module name="SpringMVC-05-Controller" />
         <module name="SpringMVC-01-Servlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SpringMVC" target="8" />
       <module name="SpringMVC-01-Servlet" target="8" />
+      <module name="SpringMVC-01-Servlet1" target="8" />
       <module name="SpringMVC-02-HelloMVC" target="8" />
+      <module name="SpringMVC-02-HelloMVC1" target="8" />
       <module name="SpringMVC-03-Annotation" target="8" />
       <module name="SpringMVC-03-HelloMVC2" target="8" />
+      <module name="SpringMVC-03-HelloMVC21" target="8" />
       <module name="SpringMVC-04-Annotation" target="8" />
+      <module name="SpringMVC-04-Annotation1" target="8" />
       <module name="SpringMVC-05-Controller" target="8" />
+      <module name="SpringMVC-05-Controller1" target="8" />
       <module name="SpringMVC-06-JSON" target="8" />
+      <module name="SpringMVC-06-JSON1" target="8" />
       <module name="SpringMVC-07-SSMbuild" target="8" />
+      <module name="SpringMVC-08-AJAX" target="8" />
+      <module name="SpringMVC-08-AJAX1" target="8" />
+      <module name="SpringMVC-09-Intercepter" target="8" />
+      <module name="SpringMVC-09-Intercepter1" target="8" />
+      <module name="SpringMVC-10-File" target="8" />
+      <module name="SpringMVC-10-File1" target="8" />
+      <module name="SpringMVC_Demo03" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
